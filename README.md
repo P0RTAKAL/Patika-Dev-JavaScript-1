@@ -1,0 +1,1 @@
+patika.dev Javascript Ödev 1
